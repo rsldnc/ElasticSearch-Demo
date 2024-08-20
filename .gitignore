@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ESDemo.WebAPI/obj
+/ESDemo.WebAPI/.vs/ESDemo.WebAPI/v17
+/ESDemo.WebAPI/bin/Debug/net8.0
+/ESDemo.WebAPI/.vs/ESDemo.WebAPI
